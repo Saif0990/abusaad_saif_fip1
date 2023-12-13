@@ -1,0 +1,148 @@
+
+#food-menu-hero-con {
+   background: url(../images/CHEF1.jpeg) no-repeat;
+   height: 195px;
+   background-size: cover;
+}
+
+#food-menu-hero-heading-box {
+   align-self: end;
+}
+
+
+.food-menu {
+   margin-bottom: 0;
+   
+ }
+
+
+ .food-menu-items {
+   margin-top: 0;
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+
+
+
+
+
+  #food-menu-hero-heading-box {
+   align-self: end;
+}
+
+
+
+#food-menu-text p {
+   font-size: 14px;
+   margin-bottom: 20px;
+   line-height: 22px;
+}
+
+
+
+.food-menu {
+   margin-bottom: 0;
+   
+ }
+
+ 
+ .food-menu-items {
+   margin-top: 0;
+   padding-left: 15px;
+   padding-right: 15px;
+ }
+
+#food-menu-con {
+   background-color: #f4f4f4;
+   padding-top: 35px;
+   padding-bottom: 30px;
+}
+
+#food-menu-con h2 {
+   font-size: 24px;
+   margin-bottom: 20px;
+}
+
+#food-menu-con h2 span {
+   color: #9a2018;
+   font-size: 16px;
+}
+
+
+
+.food-menu-items  {
+   background: #ffffff;
+   padding: 20px;
+   font-size: 16px;
+
+}
+
+
+
+
+.food-menu-items ul {
+   margin: 0;
+   padding: 0;
+   list-style-type: none;
+}
+
+.food-menu-items li {
+   padding: 8px 0;
+   border-bottom: 1px solid #9a2018;
+}   
+
+.food-menu-items a {
+   color: inherit;
+   font-size: 13px;
+}
+
+#food-menu-text-con {
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.food-menu-items{
+   margin-bottom: -5px;
+}
+
+.food-menu-items label i {
+   margin-left: 5px;
+   margin-right: 5px;
+   cursor: pointer;
+   transition: all .5s ease;
+} 
+
+
+
+.food-menu-items input, .menu-content {
+   display: none;
+}
+
+.food-menu-items input:checked ~ .menu-content {
+   display: block;
+}
+
+.food-menu-items input:checked ~ label i {
+   transform: rotate(90deg);
+}
+
+.fa-play {
+   font-size: 15px;
+   color: #626262;
+}
+
+.menu-content{
+   background-color: #f4f4f4;
+   margin: 20px;
+}
+
+#dropbox {
+   background-color: #b4b4b4 ;
+   color: #626262;
+   padding: 15px;
+   font-size: 16px;
+   border-radius: 30px;
+   width: 300px;
+   display: inline-block;
+}
+
